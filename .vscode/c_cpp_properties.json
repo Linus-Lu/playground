@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "cppStandard": "c++23",
+            "compilerPath": "/usr/bin/cpp",
+            "compilerArgs": [
+                "-Wall",
+                "-O3"
+            ]
+        }
+    ],
+    "version": 4
+}
